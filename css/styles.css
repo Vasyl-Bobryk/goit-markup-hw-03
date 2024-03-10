@@ -270,7 +270,7 @@ address {
 /** ===========PORTFOLIO========== */
 
 .portfolio {
-
+    margin-bottom: 120px;
 }
 
 .portfolio-title {
@@ -293,7 +293,7 @@ address {
 }
 
 .portfolio-item {
-
+    
 }
     
 .portfolio-subtitle {
