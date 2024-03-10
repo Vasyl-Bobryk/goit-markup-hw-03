@@ -347,9 +347,9 @@ address {
     }
 
 .footer-container {
-    display: flex;
-    flex-direction: column;
+    display: inline-block;
     gap: 16px;
+    padding-left: 156px;
 }
 .footer-logo {
     display: inline-block;
