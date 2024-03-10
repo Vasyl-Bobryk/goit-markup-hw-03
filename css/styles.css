@@ -140,25 +140,26 @@ address {
 
 .hero {
     background: #2e2f42;
+    padding-top: 188px;
+    padding-bottom: 188px;
     width: 1440px;
-    padding-bottom: 120px;
     margin: 0 auto;
     }
    
 .hero-title {
-    min-width: 496px;
+    max-width: 496px;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #ffffff;
-    padding: 188px 472px 100px 472px; 
+    padding-bottom: 48px;
     margin: 0 auto; 
 } 
 
 .hero-btn {
-    width: 169px;
+    min-width: 169px;
     height: 56px;
     font-weight: 500;
     font-size: 16px;
@@ -167,6 +168,7 @@ address {
     color: #ffffff;
     background-color: #4d5ae5;
     border-radius: 4px;
+    border: none;
     display: block;
     margin: 0 auto;
     }
