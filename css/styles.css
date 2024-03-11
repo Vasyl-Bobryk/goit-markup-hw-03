@@ -221,7 +221,6 @@ address {
 
 .team {
     background-color: #f4f4fd;
-    width: 1440px;
     margin: 0 auto;
     padding-bottom: 120px;
     padding-top: 120px;
@@ -246,7 +245,6 @@ address {
 
 .team-item {
     background-color: #ffffff;
-    padding-bottom: 32px;
     width: calc((100% -  3 * 24px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
@@ -320,8 +318,6 @@ address {
     line-height: 1.20;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    padding-left: 16px;
-    padding-top: 32px;
     margin-bottom: 8px
 }
 
@@ -330,8 +326,7 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding-left: 16px;
-    padding-bottom: 32px;
+    
     
 }
 
@@ -341,16 +336,14 @@ address {
 
 .footer {
     background: #2e2f42;
-    width: 1440px;
     margin: 0 auto;
     padding-top: 100px;
     padding-bottom: 100px;
     }
 
 .footer-container {
-    display: inline-block;
-    gap: 16px;
-    padding-left: 156px;
+    
+    
 }
 .footer-logo {
     display: inline-block;
